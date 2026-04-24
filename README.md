@@ -1,2 +1,2 @@
-# .github
-the organization of samurai
+# welcome to samurai org,
+the organization of samurais
